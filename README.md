@@ -2,8 +2,8 @@
 
 #How To Log In
 
-Username: tom.manchini@yopmail.com
-Password: 123456
+- Username: tom.manchini@yopmail.com
+- Password: 123456
 
 # To Do's
 
