@@ -1,5 +1,10 @@
 # React APP
 
+#How To Log In
+
+Username: tom.manchini@yopmail.com
+Password: 123456
+
 # To Do's
 
 1. Santiago's photo apparently is restricted to access, it returns a 403 httpstatus code when sending a get request
